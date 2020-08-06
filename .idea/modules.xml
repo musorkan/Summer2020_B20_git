@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Summer1.iml" filepath="$PROJECT_DIR$/Summer1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Summer2020_B20_git.iml" filepath="$PROJECT_DIR$/.idea/Summer2020_B20_git.iml" />
+>>>>>>> 9c36842898d82c0d582fd3330a7b8baab6b52a10
     </modules>
   </component>
 </project>
